@@ -1,22 +1,132 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shailesh Kumar N
-=========================================================================================================================================
+<!-- ===================== TYPING NAME ===================== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Shailesh+Kumar+N;Full+Stack+%2F+Backend+Developer;Building+things+that+matter+%F0%9F%9A%80" />
+</h1>
 
-Full Stack / Backend Developer
-------------------------------
-
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [shailesh-hacker](http://shailesh-hacker.vercel.app)
-* ✉️  You can contact me at [shaileshkumarn2007@gmail.com](mailto:shaileshkumarn2007@gmail.com)
-* 🧠  I'm currently learning AWS and Cloud Architecture
-* 👥  I'm looking to collaborate on Full Stack projects
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shailesh-hacker&style=for-the-badge&color=10b981" />
+  <a href="http://shailesh-hacker.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-shailesh--hacker.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/shailesh-hacker" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/shailesh-kumar-n" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+## 💫 About Me
 
-<a href="https://github.com/shailesh-hacker" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-hacker&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+- 🌍 Based in **India**
+- 💼 Full Stack / Backend Developer
+- 🧠 Currently learning **AWS and Cloud Architecture**
+- 👥 Open to collaborate on **Full Stack projects**
+- 📬 Reach me at **[shaileshkumarn2007@gmail.com](mailto:shaileshkumarn2007@gmail.com)**
+- 🖥️ Portfolio: **[shailesh-hacker.vercel.app](http://shailesh-hacker.vercel.app)**
+
+<br clear="right"/>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,nodejs,express,nestjs,fastapi,python,postgresql,mysql,supabase,sqlite,prisma,pytorch,tensorflow,arduino,linux,aws,vercel,git,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 [GoalTrack — Goal Management Portal](https://github.com/shailesh-hacker/atom)
+> Full-stack performance management portal built for the **AtomQuest Hackathon 1.0**
+
+A role-aware web application replacing spreadsheets and email workflows for employee goal tracking across an organization.
+
+- **Roles:** Employee · Manager · Admin with dedicated workspaces
+- **Features:** Goal creation & approval, quarterly check-ins, progress scoring, CSV reports, audit logs, email notifications via Resend
+- **Stack:** `Next.js 16` · `React 19` · `NestJS` · `PostgreSQL` · `Prisma` · `JWT Auth` · `TailwindCSS` · `Radix UI`
+
+---
+
+### 🏥 [CuraTrack V2 — Unified Health Ecosystem](https://github.com/SAKTHIMARAN-VENOM/CuraTrack-V2)
+> AI-powered healthcare management platform — *"Empathetic Precision in Modern Care"*
+
+Unifies patient wearables, medical records, and telemedicine into a single secure environment.
+
+- **AI:** Llama 3.1 via Ollama, Tesseract OCR for automated record ingestion
+- **Telemedicine:** WebRTC P2P video consults with real-time vitals sync
+- **Security:** Patient Passport scoped tokens, dynamic QR Health ID, E2E encryption
+- **Stack:** `Next.js 15+` · `FastAPI` · `Supabase` · `WebRTC` · `Ollama (Llama 3.1)` · `Tesseract OCR` · `TypeScript`
+
+---
+
+### 🛒 [Tracestock — Shopify Inventory Manager](https://github.com/shailesh-hacker/Tracestock)
+> Real-time inventory management dashboard for Shopify stores
+
+- Search products by title or barcode, set/adjust inventory quantities, view full operation history
+- Supports multi-variant products with image and barcode display
+- **Stack:** `Node.js` · `Express` · `SQLite` · `Shopify API` · `Vanilla JS`
+
+---
+
+### 🤟 [Silent-Voice — Sign Language Translator](https://github.com/REVAN05072006/Silent-Voice)
+> Real-time ASL hand gesture to text converter using computer vision & ML
+
+- MediaPipe for hand landmark detection, deep learning model (CNN/LSTM) for gesture classification
+- Text-to-speech output for seamless communication
+- **Stack:** `Python` · `OpenCV` · `MediaPipe` · `TensorFlow/PyTorch` · `Flask`
+
+---
+
+### 🌡️ [SafetySense — Arduino Sensor Dashboard](https://github.com/shailesh-hacker/SafetySense)
+> Real-time dashboard for Arduino sensor data with anomaly detection
+
+- Live sensor monitoring via Node.js/Express server
+- Supervised anomaly detection with Python ML pipeline
+- **Stack:** `Node.js` · `Express` · `Python` · `Arduino`
+
+---
+
+### 🚀 [Spaceman — Retro Arcade Game](https://github.com/shailesh-hacker/Spaceman)
+> Retro 2D arcade survival game built with Python & Pygame
+
+- Navigate through asteroid fields, dodge comets, track high scores
+- Background space music with in-game mute controls
+- **Stack:** `Python` · `Pygame`
+
+---
+
+## 📊 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/shailesh-hacker" target="_blank">
+    <img src="https://leetcode-calander-svg.vercel.app/shailesh-hacker?v=1" width="900" alt="LeetCode Heatmap Grid"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/shailesh-hacker" target="_blank">
+    <img src="https://leetcode-calander-svg.vercel.app/shailesh-hacker/stats?v=1" width="380" alt="LeetCode Streak & Active Days"/>
+  </a>
+</p>
+
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.github.com/shailesh-hacker" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/shailesh-kumar-n" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:shaileshkumarn2007@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Build things that solve real problems."</i>
+</p>
