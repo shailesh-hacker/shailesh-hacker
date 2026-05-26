@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shailesh-hacker&style=for-the-badge&color=10b981" />
-  <a href="http://shailesh-hacker.vercel.app">
+  <a href="http://shailesh-kumar.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-shailesh--hacker.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -66,15 +66,6 @@ Unifies patient wearables, medical records, and telemedicine into a single secur
 - Search products by title or barcode, set/adjust inventory quantities, view full operation history
 - Supports multi-variant products with image and barcode display
 - **Stack:** `Node.js` · `Express` · `SQLite` · `Shopify API` · `Vanilla JS`
-
----
-
-### 🤟 [Silent-Voice — Sign Language Translator](https://github.com/REVAN05072006/Silent-Voice)
-> Real-time ASL hand gesture to text converter using computer vision & ML
-
-- MediaPipe for hand landmark detection, deep learning model (CNN/LSTM) for gesture classification
-- Text-to-speech output for seamless communication
-- **Stack:** `Python` · `OpenCV` · `MediaPipe` · `TensorFlow/PyTorch` · `Flask`
 
 ---
 
