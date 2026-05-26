@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shailesh-hacker&style=for-the-badge&color=10b981" />
   <a href="http://shailesh-kumar.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-shailesh--hacker.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-shailesh--kumar.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
